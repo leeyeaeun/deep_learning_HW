@@ -37,7 +37,7 @@ results/
 checkpoints/
 logs/
 dogs-vs-cats/
-
+vis_utils/
 
 # OS/툴 관련
 .DS_Store
